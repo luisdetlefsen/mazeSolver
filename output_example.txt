@@ -1,0 +1,77 @@
+LuisDetlefsenMBP:pj-1 2 luisdetlefsen$ javac Solver.java
+Picked up _JAVA_OPTIONS: -Xms1024m -Xmx2048m -XX:PermSize=1024m -XX:MaxPermSize=1024m
+Java HotSpot(TM) 64-Bit Server VM warning: Ignoring option PermSize; support was removed in 8.0
+Java HotSpot(TM) 64-Bit Server VM warning: Ignoring option MaxPermSize; support was removed in 8.0
+Note: Solver.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+LuisDetlefsenMBP:pj-1 2 luisdetlefsen$ java Autograder
+Picked up _JAVA_OPTIONS: -Xms1024m -Xmx2048m -XX:PermSize=1024m -XX:MaxPermSize=1024m
+Java HotSpot(TM) 64-Bit Server VM warning: Ignoring option PermSize; support was removed in 8.0
+Java HotSpot(TM) 64-Bit Server VM warning: Ignoring option MaxPermSize; support was removed in 8.0
+No se especifico directorio. Usando ruta por defecto: './tests'
+No se especifico directorio. Usando ruta por defecto: './solutions'
+El directorio de tests contiene 10 archivos
+-----------------------------------------------------------------
+Analizando archivo './tests/test-9.txt'
+Total iterations: 6,340
+Soluciones encontradas: 1489
+Soluciones esperadas: 1489
+Puntaje Obtenido: 10.0/10
+-----------------------------------------------------------------
+Analizando archivo './tests/test-8.txt'
+Total iterations: 2,124,888
+Soluciones encontradas: 126
+Soluciones esperadas: 126
+Puntaje Obtenido: 10.0/10
+-----------------------------------------------------------------
+Analizando archivo './tests/test-0.txt'
+Total iterations: 4
+Soluciones encontradas: 1
+Soluciones esperadas: 1
+Puntaje Obtenido: 10.0/10
+-----------------------------------------------------------------
+Analizando archivo './tests/test-1.txt'
+Total iterations: 2
+Soluciones encontradas: 1
+Soluciones esperadas: 1
+Puntaje Obtenido: 10.0/10
+-----------------------------------------------------------------
+Analizando archivo './tests/test-3.txt'
+Total iterations: 19
+Soluciones encontradas: 6
+Soluciones esperadas: 6
+Puntaje Obtenido: 10.0/10
+-----------------------------------------------------------------
+Analizando archivo './tests/test-2.txt'
+Total iterations: 7
+Soluciones encontradas: 2
+Soluciones esperadas: 2
+Puntaje Obtenido: 10.0/10
+-----------------------------------------------------------------
+Analizando archivo './tests/test-6.txt'
+Total iterations: 65,600
+Soluciones encontradas: 155
+Soluciones esperadas: 155
+Puntaje Obtenido: 10.0/10
+-----------------------------------------------------------------
+Analizando archivo './tests/test-7.txt'
+Total iterations: 1,715,270
+Soluciones encontradas: 1403
+Soluciones esperadas: 1403
+Puntaje Obtenido: 10.0/10
+-----------------------------------------------------------------
+Analizando archivo './tests/test-5.txt'
+Total iterations: 89
+Soluciones encontradas: 6
+Soluciones esperadas: 6
+Puntaje Obtenido: 10.0/10
+-----------------------------------------------------------------
+Analizando archivo './tests/test-4.txt'
+Total iterations: 94
+Soluciones encontradas: 6
+Soluciones esperadas: 6
+Puntaje Obtenido: 10.0/10
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Puntaje Obtenido: 100.0/100.00
+LuisDetlefsenMBP:pj-1 2 luisdetlefsen$
